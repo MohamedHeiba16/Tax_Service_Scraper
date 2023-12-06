@@ -2,8 +2,9 @@
 
 ### About 
 
-Spider buitl by [scrapy](https://scrapy.org/) and `api` to scrape data from [tax.service](https://www.tax.service.gov.uk/check-register-fair-rents/search) 
-Script will search by `address`, `postcode` and iterate over all the urls and scrape all the date 
+Spider buitl by [scrapy](https://scrapy.org/) and `api` to scrape data from [tax.service](https://www.tax.service.gov.uk/check-register-fair-rents/search)
+
+#### Script will search by `address`, `postcode` and iterate over all the urls and scrape all the date 
 
 ### Screenshot
 
